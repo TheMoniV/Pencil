@@ -1,8 +1,9 @@
 /*
 * The very first implementation of Pencil interpreter.
-* All rights reserved to Hammadi Agharass - Alten 2018
+* Hammadi Agharass - Alten 2018
+* This file is under MIT license. 
 * @File: Lexer.ts
-* @Description: This file contains all the needed implementation of Pencile lexer.
+* @Description: This file contains all the needed implementation of Pencil lexer.
 */
 
 /// <reference path="./AST/Expression.ts" />
