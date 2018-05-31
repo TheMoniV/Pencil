@@ -1,3 +1,11 @@
+/*
+* The very first implementation of Pencil interpreter.
+* Hammadi Agharass - Alten 2018
+* This file is under MIT license. 
+* @File: Interfaces.ts
+* @Description: This file contains all abstract classes and interfaces.
+*/
+
 abstract class Statement {
     public abstract accept(visitor: StatementVisitor): any;
 }
