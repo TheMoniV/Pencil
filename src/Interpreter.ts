@@ -1,3 +1,11 @@
+/*
+* The very first implementation of Pencil interpreter.
+* Hammadi Agharass - Alten 2018
+* This file is under MIT license. 
+* @File: Interpreter.ts
+* @Description: This file contains all the needed implementation of Pencil interpreter.
+*/
+
 /// <reference path="./AST/Expression.ts" />
 /// <reference path="./AST/Statement.ts" />
 /// <reference path="./Environment.ts" />
