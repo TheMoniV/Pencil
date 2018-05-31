@@ -2,7 +2,7 @@
 * The very first implementation of Pencil interpreter.
 * Hammadi Agharass - Alten 2018
 * This file is under MIT license. 
-* @File: Environment.ts
+* @File: Pencil.ts
 * @Description: This files is the main entry point of Pencil Interpreter, notice that we're still using console.log function
 *               but things will change in the near future.
 */
