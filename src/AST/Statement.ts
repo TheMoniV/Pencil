@@ -1,3 +1,11 @@
+/*
+* The very first implementation of Pencil interpreter.
+* Hammadi Agharass - Alten 2018
+* This file is under MIT license. 
+* @File: Statement.ts
+* @Description: This file contains classes of all statements of Pencil.
+*/
+
 /// <reference path="./Interfaces.ts" />
 
 class ExpressionStatement implements Statement {
