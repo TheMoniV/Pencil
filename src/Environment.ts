@@ -1,3 +1,11 @@
+/*
+* The very first implementation of Pencil interpreter.
+* Hammadi Agharass - Alten 2018
+* This file is under MIT license. 
+* @File: Environment.ts
+* @Description: This file contains all the needed implementation of Pencil environment.
+*/
+
 class Environment {
     private variables: Map<string, any>;
     private consts: Map<string, any>;
